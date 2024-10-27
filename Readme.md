@@ -2,7 +2,7 @@
 
 Hi!
 
-My name is Vladislav Rastvorov, I am a student of CO.SDH3-A group.
+My name is Vladyslav Rastvorov, I am a student of CO.SDH3-A group.
 
 Here is a step-by-step explanation of my code for the Recipe Management Application assignment:
 Create a Recipe Management Application using the Factory Design Pattern, Prototype Design
